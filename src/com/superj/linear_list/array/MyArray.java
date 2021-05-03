@@ -49,10 +49,10 @@ public class MyArray {
         myArray.insert(0,2);
         myArray.insert(1,3);
         myArray.insert(0,5);
-        // 输出数组
-        myArray.output();
         /**删除*/
         myArray.delete(1);
+        // 输出数组
+        myArray.output();
     }
 
     /**
