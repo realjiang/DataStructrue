@@ -1,4 +1,4 @@
-package com.superj.linear_list.array;
+package com.superj.datastructure.linear_list.array;
 
 /**
  * 数组

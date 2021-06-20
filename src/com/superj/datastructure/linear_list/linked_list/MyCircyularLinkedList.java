@@ -1,9 +1,9 @@
-package com.superj.linear_list.linked_list;
+package com.superj.datastructure.linear_list.linked_list;
 
 /**
- * 双向循环链表
+ * 循环链表
  */
-public class MyDoubleCircularLinkedList {
+public class MyCircyularLinkedList {
     public static void main(String[] args) {
         //初始化
 

@@ -1,4 +1,4 @@
-package com.superj.linear_list.linked_list;
+package com.superj.datastructure.linear_list.linked_list;
 
 
 /**
